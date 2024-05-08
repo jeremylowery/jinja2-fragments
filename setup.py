@@ -3,7 +3,7 @@ from pathlib import Path
 from setuptools import find_packages, setup
 
 requires = [
-    "jinja2 >= 3.1.0",
+    "jinja2 >= 3.0.3",
 ]
 
 tests_requires = [
